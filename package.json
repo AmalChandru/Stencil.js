@@ -1,0 +1,29 @@
+{
+  "name": "stencil",
+  "version": "1.0.0",
+  "description": "A simple template-engine for express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmalChandru/Stencil.js.git"
+  },
+  "keywords": [
+    "template-engine"
+  ],
+  "author": "Amal Chandran M V",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmalChandru/Stencil.js/issues"
+  },
+  "homepage": "https://github.com/AmalChandru/Stencil.js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
